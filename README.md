@@ -11,6 +11,6 @@ git clone https://github.com/SoloTech01/WiFi-Hacker.git
 
 cd WiFi-Hacker
 
-pip -r install requirements.txt
+pip install -r requirements.txt
 
 python3 wifihacker.py

@@ -64,7 +64,7 @@ def program_intro():
     [+] Tool name: WiFi-Hacker
     [+] Developed by: Solomon Adenuga
     [+] Version: 1.0
-    [+] Github: https://github.com/SoloTech01
+    [+] Github: https://github.com/TheLogeek
     [+] Whatsapp: +2348023710562
     """)
     print(f"{'******' * 10}{RESET}")

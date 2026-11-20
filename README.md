@@ -5,7 +5,7 @@ WiFi-Hacker is a dictionary attack program that tests 2300+ commonly used passwo
 **Cloning**
 
 
-git clone https://github.com/SoloTech01/WiFi-Hacker.git
+git clone https://github.com/TheLogeek/WiFi-Hacker.git
 
 **Running the program**
 
